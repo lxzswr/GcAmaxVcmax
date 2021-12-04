@@ -1,6 +1,6 @@
 # GcAmaxVcmax
 
-The code provided here is for calculating the Gc, Amax and Vcmax in the paper:  
+This repository hosts the code for calculating the Gc, Amax and Vcmax in the paper:  
 
 Fu, Z., Ciais, P., Prentice, I. C., Gentine, P., Makowski, D., Bastos, A., Luo, X., Green, J., Stoy, P., Yang, H., Hajima, T., 2021. Atmospheric dryness reduces photosynthesis along a large range of soil water deficits. Nature Communications. (In review).
 
